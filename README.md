@@ -31,13 +31,13 @@
 
   ### 💻 Contact Me
   <div>
-    <a href="https://blog.sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
-    <a href="https://twitter.com/sun0225SUN/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
-    <a href="https://www.youtube.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>
-    <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>
-    <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
-    <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Website-博客-blue" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>
+    <a href=""><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>
+    <a href=""><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>
+    <a href=""><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
+    <a href=""><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=Stride-hu&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
